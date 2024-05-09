@@ -1,4 +1,4 @@
-# Entendendo o Desenvolvimento Orientado a Testes (TDD)
+# Desenvolvimento Orientado a Testes (TDD)
 
 No Desenvolvimento Orientado a Testes (TDD), os desenvolvedores seguem um ciclo chamado "Red-Green-Refactor":
 
